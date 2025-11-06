@@ -7,7 +7,7 @@ Here you'll find my project scripts that I am allowed to share.
 You may want to check:
 
 - [Examples of geospatial analysis for electoral campaigns in Chile](https://github.com/egoipse/Elecciones2024)
-- [The scripts for "Peritaje para la causa 35-2021_011 de la Comisión de Derechos Humanos"](https://github.com/egoipse/peritaje_CDH-35-2021_011)
+- [The scripts for "Peritaje para la causa 35-2021_011 de la Comisión Interamericana de Derechos Humanos"](https://github.com/egoipse/peritaje_CDH-35-2021_011)
 - [Examples of scripts for processing Adminsitrative Records from Policies and Judiciary](https://github.com/egoipse/Automatizacion_SPyJ)
 - [Examples of Web Books (before Quarto)](https://github.com/egoipse/Manual_Automatizacion_SPyJ)
 
